@@ -1,21 +1,19 @@
-name: Thomas A. Anderson
+name: Vianney DUPOY de GUITARD
 # Info to show in header
-email: neo@zion.gov
-phone: (312) 555-0690
-location: Zion, Earth
+email: vianney@n4v1.com
+phone: (+33) 6 73 05 89 01
+location: 30 rue St-Rome, 31000 Toulouse
 # Header introduction / mission statement
-intro: I carry the Matrix's source code, known as the Prime Program. This gives me the ability to freely manipulate the simulated reality of the Matrix, similar to the authority a system administrator has over a given system. I manifest these abilities as various superhuman powers.
-#for Twitter cards:
-twitter: '@neo'
+intro: I'm a software engineer, passionate for new technologies. My curiosity tends to take me to various ecosystems and parts of my job. Programming, but also interested in continuous delivery, while obviously continuously testing; using agile methods to achieve results!
 # Removing all proficiencies will remove the section from the resume
 proficiencies:
   # - list item
-  - Hacking
-  - Creative entrepeneurship
-  - Martial arts
-  - Negotiations
-  - Hovercraft piloting
+  - Java ecosystem (JEE, JPA, JBoss, Maven, Spring...)
+  - Javascript ecosystem (NodeJS, ReactJS, Grunt, Express, Sails...)
+  - Continuous integration (Jenkins 1&2, Selenium, Behave, JUnit, Mocha)
+  - Continuous delivery (Docker, Kubernetes, OpenShift)
+  - Agile methods and tools (Scrum, Kanban, Jira)
 # Links to include in header
 links:
   # text: http://link.com
-  '@neo': https://github.com/neo
+  '@deguitard': https://github.com/deguitard
