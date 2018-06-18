@@ -4,15 +4,14 @@ email: vianney@n4v1.com
 phone: (+33) 6 73 05 89 01
 location: 30 rue St-Rome, 31000 Toulouse
 # Header introduction / mission statement
-intro: I'm a software engineer, passionate for new technologies. My curiosity tends to take me to various ecosystems and parts of my job. Programming, but also interested in continuous delivery, while obviously continuously testing; using agile methods to achieve results!
+intro: I'm a software engineer, passionate for new technologies. My curiosity tends to take me to various ecosystems. Programming, but also interested in continuous delivery, while obviously continuously testing; using agile methods to achieve results and reach out the market!
 # Removing all proficiencies will remove the section from the resume
 proficiencies:
-  # - list item
-  - Java ecosystem (JEE, JPA, JBoss, Maven, Spring...)
-  - Javascript ecosystem (NodeJS, ReactJS, Grunt, Express, Sails...)
-  - Continuous integration (Jenkins 1&2, Selenium, Behave, JUnit, Mocha)
-  - Continuous delivery (Docker, Kubernetes, OpenShift)
-  - Agile methods and tools (Scrum, Kanban, Jira)
+  - "French: mother tongue"
+  - "English: 980/990 at TOEIC" 
+  - "Spanish, written: intermediate"
+  - "Spanish, spoken: beginner"
+  - "Japanese: beginner"
 # Links to include in header
 links:
   # text: http://link.com

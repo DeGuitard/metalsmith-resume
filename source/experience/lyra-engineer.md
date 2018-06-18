@@ -6,7 +6,7 @@ startDate: '2016-06-01'
 location: 'Labège, FRANCE'
 published: true
 ---
-Software design and implementation, helping team to apply agile methods and find ways to improve efficiency, industrialization contribution to improve technical stack and habits. 
+Software design and implementation, helping my team to apply agile methods and find ways to improve efficiency, industrialization contribution to improve technical stack and habits to the company. 
 
 > *Technologies: Java JEE, SOAP/REST WebServices, Hibernate, FreeMarker, Python, Git.*
 
