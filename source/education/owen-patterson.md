@@ -1,9 +1,9 @@
 ---
-title: High School Diploma
-subtitle: Owen Patterson H.S.
-startDate: 1985-08-11
-endDate: 1989-05-31
-location: Capitol City, USA
+title: B.Sc
+subtitle: Blagnac Institute of Technology
+startDate: '2009-09-01'
+endDate: '2013-07-01'
+location: 'Blagnac, FRANCE'
+published: true
 ---
 
-Excelled in science, math and computer courses. Became a respected member of the school community through involvement in football and hockey.
