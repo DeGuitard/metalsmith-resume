@@ -10,4 +10,4 @@ published: true
 
 Internship at a start-up: design and development of many tools from scratch (e.g. community wiki, data visualization...), started implementation of a heavily performance driven forum system.
 
-Keywords: PHP5 OOP, MySQL, jQuery
+> *Technologies: PHP5 OOP, MySQL, jQuery*
